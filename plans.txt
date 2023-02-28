@@ -1,0 +1,11 @@
+Main components:
+1. UI
+2. Math logic
+3. Visualization
+
+TO DO:
+1. Make an empty window with PyQt5
+2. Add "income" and "expences" labels
+3. Add an opportunity to change "income" and "expences" labels through UI
+3.1.
+3.2.
